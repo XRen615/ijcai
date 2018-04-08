@@ -1,2 +1,0 @@
-# ijcai
-ijcai script sharing
